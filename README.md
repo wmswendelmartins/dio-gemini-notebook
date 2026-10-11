@@ -10,7 +10,7 @@ Para estruturar esta base de conhecimento, selecionamos canais renomados e didá
 
 - **Curso em Vídeo**: Referência em didática inicial para lógica de programação e bases da computação.
 - **Bóson Treinamentos**: Conteúdos aprofundados sobre fundamentos de computação, lógica, algoritmos e boas práticas.
-- **Sharpx**:Focado em ensinamentos para iniciantes e intermediários com muitos comentários positivos.
+- **Sharpx**: Focado em ensinamentos para iniciantes e intermediários com muitos comentários positivos.
 - **A Dev' Story**: Abordagens práticas de arquitetura, padrões de projeto e desenvolvimento de software.
 
 Foram incorporados artigos e documentações técnicas selecionadas por meio do **Deep Research**, garantindo um direcionamento atualizado.
